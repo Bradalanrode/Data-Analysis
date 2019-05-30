@@ -1,2 +1,2 @@
-# Data-Analysis
-Welcome to my sharing of data analysis projects. I am an aspiring data scientist with experience across healthcare, energy, maufacturing, military, and aviation - albeit in very different roles. During business school, data science was by far my favorite topic of study yet not many courses were actually offered. I am now devoting my time to building up my knowledge and skills in this area.
+# Data-Analysis and Data Science
+Welcome to my sharing of data science projects. I am an aspiring data scientist with experience across healthcare, energy, maufacturing, military, and aviation - albeit in very different roles. During business school, data science was by far my favorite topic of study yet not many courses were actually offered. I am now devoting my time to building up my knowledge and skills in this area.
